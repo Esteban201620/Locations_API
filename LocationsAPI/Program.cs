@@ -9,7 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 var MyAllowSpecificOrigins = "_CorsApiLocations";
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.ConfigureInterfaces();
@@ -22,16 +22,12 @@ builder.Services.AddCors(p => p.AddPolicy(MyAllowSpecificOrigins, build =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
 
     app.UseSwagger();
     app.UseSwaggerUI();
 	app.UseCors(MyAllowSpecificOrigins);
-    //app.UseExceptionHandler("/Error");
-    //// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
-    //app.UseHsts();
 }
 
 #region Pais
@@ -110,29 +106,6 @@ async Task<IResult> HandleRequest<T>(Func<Task<T>> action, HttpContext context)
         return Results.Problem(detail: e.Message, statusCode: 422, title: "Error General");
     }
 }
-//async Task<IResult> HandleRequest<T>(Func<Task<T>> action, HttpContext context)
-//{
-//    try
-//    {
-//        var result = await action();
-//        switch (context.Request.Method)
-//        {
-//            case "POST":
-//                return Results.Created("", result);
-//            case "PUT":
-//                return Results.Ok(result);
-//            case "GET":
-//                if (result != null) return Results.Ok(result);
-//                else return Results.StatusCode(204);
-//            default:
-//                return Results.Problem(detail: $"{context.Request.Method} No tiene una configuración válida", statusCode: 501, title: "Método no válido");
-//        }
-//    }
-//    catch (Exception e)
-//    {
-//        return Results.Problem(detail: e.Message, statusCode: 422, title: "Error General");
-//    }
-//}
 
 app.UseHttpsRedirection();
 
