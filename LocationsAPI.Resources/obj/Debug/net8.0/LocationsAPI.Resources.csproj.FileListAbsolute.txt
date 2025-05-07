@@ -1,0 +1,24 @@
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\bin\Debug\net8.0\LocationsAPI.Resources.deps.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\bin\Debug\net8.0\LocationsAPI.Resources.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\bin\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\refint\LocationsAPI.Resources.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\ref\LocationsAPI.Resources.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\bin\Debug\net8.0\LocationsAPI.Resources.deps.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\bin\Debug\net8.0\LocationsAPI.Resources.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\bin\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.csproj.AssemblyReference.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.AssemblyInfoInputs.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.AssemblyInfo.cs
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\refint\LocationsAPI.Resources.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Resources\obj\Debug\net8.0\ref\LocationsAPI.Resources.dll

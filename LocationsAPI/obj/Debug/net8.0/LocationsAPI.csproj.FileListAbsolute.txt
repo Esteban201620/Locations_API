@@ -1,0 +1,189 @@
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.staticwebassets.endpoints.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.exe
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.deps.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.runtimeconfig.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Dal.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Resources.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Dal.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\scopedcss\bundle\LocationsAPI.styles.css
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.LocationsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.LocationsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LocationsAPI.props
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LocationsAPI.props
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LocationsAPI.props
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\Location.AE481940.Up2Date
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\refint\LocationsAPI.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.genruntimeconfig.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\ref\LocationsAPI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\appsettings.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.staticwebassets.endpoints.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.exe
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.deps.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.runtimeconfig.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Dal.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Resources.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Dal.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.csproj.AssemblyReference.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.AssemblyInfoInputs.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.AssemblyInfo.cs
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\scopedcss\bundle\LocationsAPI.styles.css
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.LocationsAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.LocationsAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.LocationsAPI.props
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LocationsAPI.props
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LocationsAPI.props
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\Location.AE481940.Up2Date
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\refint\LocationsAPI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\LocationsAPI.genruntimeconfig.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\obj\Debug\net8.0\ref\LocationsAPI.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI\bin\Debug\net8.0\Newtonsoft.Json.dll

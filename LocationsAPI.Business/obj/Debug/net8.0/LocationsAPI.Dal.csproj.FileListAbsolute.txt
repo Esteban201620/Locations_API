@@ -1,0 +1,30 @@
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Dal.deps.json
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Dal.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Dal.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Resources.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\Location.BCBDE258.Up2Date
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\refint\LocationsAPI.Dal.dll
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.pdb
+C:\Users\esteb\OneDrive\Escritorio\Prueba Técnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\ref\LocationsAPI.Dal.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Dal.deps.json
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Dal.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Dal.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Resources.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\bin\Debug\net8.0\LocationsAPI.Resources.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.csproj.AssemblyReference.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.AssemblyInfoInputs.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.AssemblyInfo.cs
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.csproj.CoreCompileInputs.cache
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\Location.BCBDE258.Up2Date
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\refint\LocationsAPI.Dal.dll
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\LocationsAPI.Dal.pdb
+C:\PruebaTecnica\LocationsAPI\LocationsAPI.Business\obj\Debug\net8.0\ref\LocationsAPI.Dal.dll
